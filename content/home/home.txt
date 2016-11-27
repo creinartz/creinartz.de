@@ -1,0 +1,26 @@
+Title: Hi there, I am Christoph,
+
+----
+
+Text: 
+
+Front-End Engineer & Architect. My current Job is to lead the UI/UX Engineering Team @(link: http://www.trivago.com text: trivago) 
+
+Recently I have given several talks at conferences in Europe, such as ScotlandCSS, Frontend United, Symfony Live and more.
+
+<div class="flex-grid">
+<div class="flex-grid__item">(image: speaker_scotlandcss.jpg)</div>
+<div class="flex-grid__item">(image: speaker_jsunconf.jpg)</div>
+<div class="flex-grid__item">(image: speaker_fughent.jpg)</div>
+</div>
+
+My next talk will be at the PHP Usergroup Düsseldorf. I'll present a best of edition of my Large Scale CSS Refactoring talk.
+
+## More
+
+- You might want to read one of the (link: article text: articles) I published
+- If you are interested in reading more you can visit my  (link: https://blog.creinartz.de text: blog) 
+- Or check out my (link: talks text: talks)
+- Recently I have been (link: interviews text: interviewed)
+- Follow me on Twitter: (twitter: @pistenprinz)
+- Get in (link: contact text: touch) with me

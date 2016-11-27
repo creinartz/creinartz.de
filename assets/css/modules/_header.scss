@@ -1,0 +1,23 @@
+.header {
+	border-bottom: 1px solid #aaa;
+	margin-bottom: 1.5em;
+}
+.logo {
+	display: block;
+}
+.logo img {
+	width: 12em;
+}
+
+.logo-wrapper {
+	@media screen and (min-width: 48em) {
+		float: left;
+		margin-bottom: .5em;
+	}
+}
+
+.site-title {
+	font-size: .8em;
+	color: #aaa;
+	font-weight: 400;
+}

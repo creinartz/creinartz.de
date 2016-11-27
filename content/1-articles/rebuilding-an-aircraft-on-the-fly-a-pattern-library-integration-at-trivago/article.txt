@@ -1,0 +1,12 @@
+Title: Rebuilding an aircraft on the fly -  A Pattern Library integration at trivago
+
+----
+
+Date: 2016-03-30
+
+----
+
+Text: 
+
+We started at the beginning of 2015 with building the first prototype of a pattern library. I stumbled upon HBR’s pattern-lab work flow that they used as part of their redesign. I liked the solution, having the whole development inside a vagrant environment to easily share the code amongst developers and have an easier installation process. Not everybody has a local PHP version or a development ready web server environment on their local machines and we use vagrant internally for most of our development environments. We forked the HBRGTech Repo and used this as a base setup for our development.
+Our Case Study: Our goal was to redesign our company pages and to prove that a design-development process like Atomic Design is more efficient. The planned redesign was a case study for the project trivago and patternlab. [(link: https://medium.com/@pistenprinz/rebuilding-an-aircraft-on-the-fly-a-pattern-library-integration-at-trivago-b2fd6954a88e text: Read more)]

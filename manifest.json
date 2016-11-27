@@ -1,0 +1,17 @@
+{
+  "name": "creinartz.de",
+  "icons": [
+    {
+      "src": ".\/tiny.png",
+      "sizes": "77x77",
+      "type": "image\/png"
+    },
+    {
+      "src": ".\/square.png",
+      "sizes": "120x120",
+      "type": "image\/png"
+    }
+  ],
+  "theme_color": "#000000",
+  "display": "standalone"
+}

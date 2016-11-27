@@ -1,0 +1,9 @@
+Title: Large Scale Refactoring at trivago
+
+----
+
+Text: While our company and our application were constantly growing, we often ran into some consistency issues between code and design. Because we didn't have a design/frontend system and development guidelines to follow, our UI became cluttered and unsustainable. This caused maintenance issues, slowed down our UI Development and caused us to produce technical debt with an overcomplicated CSS/DOM structure. In the end, we were afraid of spending our time on figuring out crazy rendering bugs rather than rapidly developing new UI features. (link: https://medium.com/@pistenprinz/large-scale-css-refactoring-at-trivago-4602113c4a26 text: [Read more])
+
+----
+
+Date: 2016-02-02

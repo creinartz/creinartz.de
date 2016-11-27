@@ -1,0 +1,17 @@
+Title: Christoph Reinartz
+
+----
+
+Author: Christoph Reinartz
+
+----
+
+Description: Christoph Reinartz  - Frontend Developer
+
+----
+
+Keywords: CSS,Development,Frontend
+
+----
+
+Copyright: © 2013-(date: Year) (link: http://www.creinartz.de text: Christoph Reinartz)

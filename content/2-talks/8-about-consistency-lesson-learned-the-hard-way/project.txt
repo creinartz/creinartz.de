@@ -1,0 +1,25 @@
+Title: about:consistency - lessons learned: the hard way
+
+----
+
+Year: 2015
+
+----
+
+Text: 
+
+Lightning talk about User Interface consistency at the LeanUX Meetup in Düsseldorf. I presented what we have learned while developing and scaling a User Interface on a large scale and was pleased that also Brad Frost was the audience because he was the main speaker for this event.
+
+<div class="video-frame video-frame--normal mb-24"><iframe src="//de.slideshare.net/slideshow/embed_code/key/i4NEKX2IViPEOX" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" class="video-frame__source"  allowfullscreen> </iframe></div>
+
+You can find more information on the (link: http://www.sipgateblog.de/lean-ux-dus-4-atomic-design-patterns/ text: Sipgate Blog) (in german though)
+
+The organizers took a few pictures during my talk.
+
+----
+
+Tags: consistency,design,code quality
+
+----
+
+Date: 2015-05-01

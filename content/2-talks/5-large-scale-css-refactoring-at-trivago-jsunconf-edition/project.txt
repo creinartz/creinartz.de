@@ -1,0 +1,41 @@
+Title: Large Scale CSS Refactoring at trivago - JSUnconf Edition
+
+----
+
+Date: 2016-04-23
+
+----
+
+Text: 
+
+My first talk in english on a conference ever. 
+
+The abstract of the talk:
+
+*Keeping technical debt low while developing a CSS base on a large scale project is a tough challenge. Even more exciting is to refactor existing CSS / frontend foundations which became cluttered.*
+
+*Running into into consistency issues between code and design which slows down the development of user interface iterations is a common problem in fast growing applications when the development doesn't follow efficient guidelines, styleguides and utilizes an efficient process. At the beginning of 2015 we began establishing a design/frontend system and improving our design-development workflow at trivago. We introduced a pattern library, started utilizing atomic design in our workflow, created new coding guidelines, and adapted several methodologies like BEM and ITCSS in order to support us in maintaining and developing our CSS/UI on a large scale.*
+
+*The talk will provide backgrounds, insights, learnings and technical approaches of refactoring a CSS base on a large scale project including its scope, the outcome and the business value.*
+
+See the slides here:
+
+<script async class="speakerdeck-embed" data-id="487758e4f17e48158d318ba83191382d" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<br>
+The talk was recorded and so maybe I'll share the video later here if it get published.
+
+Meanwhile you can have a look at some of the pictures of the event:
+
+(image: js_091.jpg)
+
+(image: js_147.jpg)
+
+(image: js_148.jpg)
+
+(image: js_149.jpg)
+
+(image: js_151.jpg)
+
+----
+
+Tags: css,Scss,refactoring

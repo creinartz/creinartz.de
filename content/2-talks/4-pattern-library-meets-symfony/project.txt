@@ -1,0 +1,20 @@
+Title: Pattern Library meets Symfony
+
+----
+
+Date: 2016-04-29
+
+----
+
+Text: 
+
+This talk was at a german speaking conference the Symfony Live Cologne 2016. It was mainly a backend conference and I enjoyed it very much to be the Front-End speaker. 
+
+Rebuilding an aircraft on the fly — A Pattern Library integration at trivago
+Evolution and approaches of integrating a pattern library at large scale
+
+<script async class="speakerdeck-embed" data-id="667dd659f087480d907b2c76cac39bb2" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+----
+
+Tags: pattern library,design system
