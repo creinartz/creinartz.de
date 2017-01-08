@@ -1,0 +1,12 @@
+Title: CSS at trivago  -  Part 1: Structure and ITCSS
+
+----
+
+Date: 2016-09-08
+
+----
+
+Text: 
+
+How do we handle CSS at trivago, what methodologies do we apply, how do we structure our CSS, what do we do for Quality Assurance and automated testing, how do we release our CSS?
+A lot of questions which came up during my Project Ironman tour in Europe a few weeks ago. With a series of articles I would like to give some more insights how we approach CSS at trivago.  (link: https://medium.com/@pistenprinz/css-at-trivago-part-1-structure-and-itcss-52f63ed557ca text: [Read more])

@@ -4,9 +4,9 @@ Title: Hi there, I am Christoph,
 
 Text: 
 
-Front-End Engineer & Architect. My current Job is to lead the UI/UX Engineering Team @(link: http://www.trivago.com text: trivago) 
+Front-End Engineer,  Speaker and wannabe author from Germany. My current job is to lead the UI/UX Engineering team @(link: http://www.trivago.com text: trivago). I put all my passion and drive into the Front-End to keep it consistent, performant, scalable and maintainable. I'm not afraid to commit.
 
-Recently I have given several talks at conferences in Europe, such as ScotlandCSS, Frontend United, Symfony Live and more.
+In 2016 I have already given several talks at conferences in Europe, such as ScotlandCSS, Frontend United, Symfony Live and more. Have a look at the (link: talks text: talks) section to find out more.
 
 <div class="flex-grid">
 <div class="flex-grid__item">(image: speaker_scotlandcss.jpg)</div>
@@ -14,13 +14,13 @@ Recently I have given several talks at conferences in Europe, such as ScotlandCS
 <div class="flex-grid__item">(image: speaker_fughent.jpg)</div>
 </div>
 
-My next talk will be at the PHP Usergroup Düsseldorf. I'll present a best of edition of my Large Scale CSS Refactoring talk.
+I've learned so much from the great developer community. I'm very grateful for that and like to give back as much as I can. In case you want to get me speaking at your event, do a Skype call with me or exchange about some topics with me feel free to get in (link: contact text: touch).
 
 ## More
 
-- You might want to read one of the (link: article text: articles) I published
+- You might want to read one of the (link: articles text: articles) I published
 - If you are interested in reading more you can visit my  (link: https://blog.creinartz.de text: blog) 
-- Or check out my (link: talks text: talks)
-- Recently I have been (link: interviews text: interviewed)
+- Have a look at the (link: talks text: talks) I've done
+- Read or watch (link: interviews text: interviews) 
 - Follow me on Twitter: (twitter: @pistenprinz)
-- Get in (link: contact text: touch) with me
+- Various options to (link: contact text: contact) with

@@ -1,0 +1,12 @@
+Title: CSS at trivago  -  Part 2: Naming Conventions and Methodologies
+
+----
+
+Date: 2016-11-20
+
+----
+
+Text: 
+
+ACSS? BEM? OOCSS? SMACSS? BEMIT? UCSS? Atomic OOBEMITSCSS? What is wrong with CSS? Or are we wrong with all those conventions and methodologies? Are they really necessary? Which problems do we want to solve?
+The second part of my series will focus on CSS naming conventions and methodologies and explain how and why we incorporate some of them in our large scale environment at trivago. (link: https://medium.com/@pistenprinz/css-at-trivago-part-2-naming-conventions-and-methodologies-d51b445a3a39 text: [Read more])

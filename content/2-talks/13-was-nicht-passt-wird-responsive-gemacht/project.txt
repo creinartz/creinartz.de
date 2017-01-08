@@ -1,0 +1,21 @@
+Title: Was nicht passt wird responsive gemacht!
+
+----
+
+Year: 2014
+
+----
+
+Text: 
+
+My first talk! 
+
+<div class="video-frame video-frame--normal mb-24"><iframe src="//www.slideshare.net/slideshow/embed_code/key/5xifSlxBnAAlC6" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" class="video-frame__source"  allowfullscreen> </iframe></div>
+
+----
+
+Tags: 
+
+----
+
+Date: 2014-04-01
