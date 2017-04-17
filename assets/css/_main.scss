@@ -90,18 +90,23 @@ html {
   height: 101%;
   /* font-family: "Source Sans Pro", sans-serif; */
   /* font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; */
-  font-family: helvetica,arial,freesans,clean,sans-serif;
+  /* font-family: helvetica,arial,freesans,clean,sans-serif; */
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
 body {
   margin: 0 auto;
-  font-size: 1.25em;
+  font-size: 1em;
   line-height: 1.5em;
   padding: 1.5em;
   max-width: 50em;
   background: #fff;
   color: #222;
+  font-family: "Noto Serif", serif;
+
+  @media screen and (min-width: 30em) {
+    font-size: 1.25em;
+  }
 }
 
 
@@ -173,13 +178,13 @@ body {
   }
   .menu {
     float: right;
-    margin-right: -1em;
+    margin-right: -.7em;
   }
   .menu > li {
     float: left;
   }
   .menu > li > a {
-    padding: .35em 1em;
+    padding: .6em .7em .35em;
     border: 0;
   }
   .menu > li:hover .submenu {
@@ -193,28 +198,22 @@ body {
 h1 {
   font-size: 2em;
   line-height: 1.25em;
-  font-weight: 400;
   margin-bottom: .5em;
 }
 h2 {
-  font-size: 2em;
+  font-size: 1.5em;
   line-height: 1.25em;
-  font-weight: 300;
   margin-bottom: .5em;
-  color: #aaa;
 }
 h3 {
-  font-size: 1.4em;
+  font-size: 1.25em;
   line-height: 1.5em;
-  font-weight: 400;
   margin-bottom: .5em;
 }
 h4 {
-  font-size: 1.125em;
-  font-weight: 600;
+  font-size: 1em;
   line-height: 1.5em;
   margin-bottom: .5em;
-  color: #aaa;
 }
 h1 a, h2 a, h3 a, h4 a {
   color: inherit;

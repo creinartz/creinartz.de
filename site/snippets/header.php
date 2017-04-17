@@ -9,21 +9,26 @@
   <meta name="description" content="<?php echo $site->description()->html() ?>">
   <meta name="keywords" content="<?php echo $site->keywords()->html() ?>">
   <meta name="author" content="creinartz">
-   <link rel="manifest" href="manifest.json">
-  <link rel="dns-prefetch" href="http://www.creinartz.de/" />
+  <link rel="manifest" href="manifest.json">
+  <link rel="dns-prefetch" href="https://www.creinartz.de/" />
+  <link rel='dns-prefetch' href='//fonts.googleapis.com' />
   <link rel="shortcut icon" href="<?php echo url() ?>/favicon.ico">
   <?php if(isset($bNoRobots)): ?>
     <meta name="robots" content="noindex">
   <?php endif ?>
 
   <?php echo css('assets/css/site.css') ?>
+  <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
 </head>
 <body>
 
   <header class="header cf" role="banner">
     <div class="logo-wrapper">
       <a class="logo" href="<?php echo url() ?>">
-        <img src="<?php echo url('assets/images/logo-cr.svg') ?>" alt="<?php echo $site->title()->html() ?>" />
+        <svg version="1.1" baseProfile="tiny" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	        width="250" height="40" viewBox="0 0 250 28" xml:space="preserve">
+          <text transform="matrix(1 0 0 1 -2.002716e-05 20.6076)" font-size="28px" dominant-baseline="middle">Christoph Reinartz</text>
+        </svg>
       </a>
       <h1 class="site-title">Front-End Engineer</h1>
     </div>

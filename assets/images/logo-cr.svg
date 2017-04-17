@@ -2,5 +2,11 @@
 <!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" baseProfile="tiny" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" width="198.8px" height="32.2px" viewBox="0 0 198.8 32.2" xml:space="preserve">
-<text transform="matrix(1 0 0 1 -2.002716e-05 20.6076)" font-family="'Helvetica'" font-size="24px">Christoph Reinartz</text>
+	 <defs>
+  		<style type="text/css">
+		  @import url('https://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&#038;subset=latin%2Clatin-ext');
+		  text { font-family: "Noto Serif";}  
+		</style>
+	</defs>
+<text transform="matrix(1 0 0 1 -2.002716e-05 20.6076)" font-size="24px">Christoph Reinartz</text>
 </svg>

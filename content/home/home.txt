@@ -4,9 +4,9 @@ Title: Hi there, I am Christoph,
 
 Text: 
 
-Front-End Engineer,  Speaker and wannabe author from Germany. My current job is to lead the UI/UX Engineering team @(link: http://www.trivago.com text: trivago). I put all my passion and drive into the Front-End to keep it consistent, performant, scalable and maintainable. I'm not afraid to commit.
+Front-End Engineer,  Speaker and wannabe author from Germany. I'm working as a Team Lead for UI/UX Engineering @(link: http://www.trivago.com text: trivago).
 
-In 2016 I have already given several talks at conferences in Europe, such as ScotlandCSS, Frontend United, Symfony Live and more. Have a look at the (link: talks text: talks) section to find out more.
+In the last months I have given several talks at conferences in Europe, such as ScotlandCSS, Noslidesconf, MobCon Europe and more. Have a look at the (link: talks text: talks) section to find out more. My next talk will be at (link: https://www.wearedevelopers.org/ text: WeAreDevelopers) in Vienna in May. 
 
 <div class="flex-grid">
 <div class="flex-grid__item">(image: speaker_scotlandcss.jpg)</div>
@@ -20,7 +20,7 @@ I've learned so much from the great developer community. I'm very grateful for t
 
 - You might want to read one of the (link: articles text: articles) I published
 - If you are interested in reading more you can visit my  (link: https://blog.creinartz.de text: blog) 
-- Have a look at the (link: talks text: talks) I've done
+- Have a look at the (link: talks text: talks)
 - Read or watch (link: interviews text: interviews) 
 - Follow me on Twitter: (twitter: @pistenprinz)
-- Various options to (link: contact text: contact) with
+- Various options to (link: contact text: contact) me
