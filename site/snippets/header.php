@@ -22,7 +22,7 @@
 </head>
 <body>
 
-  <header class="header cf" role="banner">
+  <header class="header cf">
     <div class="logo-wrapper">
       <a class="logo" href="<?php echo url() ?>">
         <svg version="1.1" baseProfile="tiny" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"

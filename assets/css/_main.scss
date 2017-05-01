@@ -71,7 +71,7 @@ a {
   transition: color .3s, background .3s, border .3s;
 }
 a:hover {
-  color: #aaa;
+  color: #767676;
 }
 
 
@@ -122,11 +122,11 @@ body {
   color: #222;
 }
 .menu a:hover {
-  color: #aaa;
+  color: #767676;
   text-decoration: none;
 }
 .menu .active {
-  color: #aaa;
+  color: #767676;
 }
 .menu li {
   list-style: none;
@@ -240,7 +240,7 @@ h1 a, h2 a, h3 a, h4 a {
   margin-bottom: 1.5em;
 }
 .main a {
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #767676;
 }
 .main a:hover {
   border-color: #222;
@@ -261,7 +261,7 @@ h1 a, h2 a, h3 a, h4 a {
   float: left;
   list-style: none;
   margin-right: 2em;
-  color: #aaa;
+  color: #767676;
 }
 .meta li b {
   font-weight: 400;
@@ -320,6 +320,6 @@ h1 a, h2 a, h3 a, h4 a {
   float: right;
 }
 .colophon a b {
-  color: #aaa;
+  color: #767676;
   padding-left: .25em;
 }

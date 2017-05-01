@@ -1,4 +1,4 @@
-  <footer class="footer cf" role="contentinfo">
+  <footer class="footer cf">
 
     <div class="copyright">
       <?php echo $site->copyright()->kirbytext() ?>
