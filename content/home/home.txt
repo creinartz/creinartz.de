@@ -4,15 +4,11 @@ Title: Hi there, I am Christoph,
 
 Text: 
 
-Front-End Engineer,  Speaker and wannabe author from Germany. I'm working as a Team Lead for UI/UX Engineering @(link: http://www.trivago.com text: trivago).
+Front-End Engineer,  Speaker and wannabe author from Germany. I'm working as a Team Lead UI/UX Engineering @(link: http://www.trivago.com text: trivago).
 
-In the last months I have given several talks at conferences in Europe, such as ScotlandCSS, Noslidesconf, MobCon Europe and more. Have a look at the (link: talks text: talks) section to find out more. My next talk will be at (link: https://www.wearedevelopers.org/ text: WeAreDevelopers) in Vienna in May. 
+(image: wroclaw.jpg)
 
-<div class="flex-grid">
-<div class="flex-grid__item">(image: speaker_scotlandcss.jpg)</div>
-<div class="flex-grid__item">(image: speaker_jsunconf.jpg)</div>
-<div class="flex-grid__item">(image: speaker_fughent.jpg)</div>
-</div>
+Photo credits: Luke Oslizlo @lukaszmtw
 
 I've learned so much from the great developer community. I'm very grateful for that and like to give back as much as I can. In case you want to get me speaking at your event, do a Skype call with me or exchange about some topics with me feel free to get in (link: contact text: touch).
 
