@@ -1,0 +1,32 @@
+Title: Pattern Library meets Symfony
+
+----
+
+Date: 2016-04-29
+
+----
+
+Text: 
+
+This talk was at a german speaking conference the Symfony Live Cologne 2016. It was mainly a backend conference and I enjoyed it very much to be the Front-End speaker. 
+
+Rebuilding an aircraft on the fly — A Pattern Library integration at trivago
+Evolution and approaches of integrating a pattern library at large scale
+
+The talk abstract:
+
+*Pattern Library meets Symfony*
+
+*Anfang 2015 haben wir begonnen ein Frontend/Design System bei trivago aufzubauen um die Konsistenz des Design als auch die Effektivität und Geschwindigkeit der User Interface Entwicklung zu erhöhen. Mit der Einführung einer Pattern Library und eines Atomic Design Workflow haben wir in kürzester Zeit die Basis für schnelle und skalierbare Frontend/Design Iterationen geschaffen. Der Vortrag gibt Einblicke in die Entwicklung der Pattern Library, geht auf die technischen, Design & Business relevanten Anforderungen ein und zeigt Herangehensweisen und mögliche Workflows zur Implementation der UI Patterns und ihrer Assets in eine High Performance Symfony Applikation.*
+
+See the slides here:
+
+<script async class="speakerdeck-embed" data-id="667dd659f087480d907b2c76cac39bb2" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+<br>The recording:
+<div class="ar-box ar-box--wide"><div class="ar-box__source teaser-box">
+<iframe class="video-frame__source" src="https://www.youtube.com/embed/xNrspE-QgZg" frameborder="0" allowfullscreen></iframe></div></div>
+
+----
+
+Tags: pattern library,design system

@@ -1,4 +1,4 @@
-Title: Talks
+Title: Speaking
 
 ----
 
@@ -7,19 +7,5 @@ Text:
 I did my first talk at the (link: http://www.meetup.com/de-DE/PHP-Usergroup-Duesseldorf/ text: PHP Usergroup Düsseldorf) in April 2014. My good friend and highly admired colleague (link: http://andygrunwald.com/ text: Andy Grunwald) and organizer of this Usergroup empowered me to do my first talk there. I enjoyed it so much, that I did it again. Several times.
 
 You organize a Usergroup, Meetup or Conference? (link: contact text: Get in touch) if you are interested in me talking at your event.
-
-### Upcoming Events:
-
-**May 2017**
-
-**(link: https://www.wearedevelopers.org/ text: WeAreDevelopers), Vienna May 11-12**
-Rebuilding an Aircraft on the Fly
-
-**(link: https://www.codeeurope.pl/en text: Code Europe), Wroclaw May 23**
-Design Systems Engineering: Scaling User Interfaces
-
-**(link: https://www.codeeurope.pl/en text: Code Europe), Warsaw May 25**
-Design Systems Engineering: Scaling User Interfaces
-
 
 ### Past Events

@@ -1,0 +1,42 @@
+Title: Large Scale CSS Refactoring - Frontend United 2016
+
+----
+
+Date: 2016-05-28
+
+----
+
+Text: 
+
+Project Ironman: the technical migration of the trivago hotel search’s existing CSS core.
+
+Keeping technical debt low while developing a CSS base on a large scale project is a tough challenge. Even more exciting is to refactor existing CSS / frontend foundations which became cluttered.
+
+Running into into consistency issues between code and design which slows down the development of user interface iterations is a common problem in fast growing applications when the development doesn’t follow efficient guidelines, styleguides and utilizes an efficient process. At the beginning of 2015 we began establishing a design/frontend system and improving our design-development workflow at trivago. We introduced a pattern library, started utilizing atomic design in our workflow, created new coding guidelines, and adapted several methodologies like BEM and ITCSS in order to support us in maintaining and developing our CSS/UI on a large scale.
+
+The talk will provide backgrounds, insights, learnings and technical approaches of refactoring a CSS base on a large scale project including its scope, the outcome and the business value.
+
+The slides:
+
+<script async class="speakerdeck-embed" data-id="095aa6e8da3d4256b44b7c4329ec1972" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+<br>The recording:
+<div class="ar-box ar-box--wide"><div class="ar-box__source teaser-box">
+<iframe class="video-frame__source" src="https://www.youtube.com/embed/XhdIfKplk7Q" frameborder="0" allowfullscreen></iframe></div></div>
+
+<br>Some pictures of the event:
+
+(image: 013316936_1032173460198841_6805646591622988372_o.jpg)
+
+(image: 13316821_1032174610198726_1053211754131891325_o.jpg)
+
+(image: 13305160_1032174910198696_8229028092546108150_o.jpg)
+
+A tweet about my talk. The fifty shades of grey.
+
+<blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">"Fifty Shades of Grey in CSS" 😂 by <a href="https://twitter.com/pistenprinz">@pistenprinz</a> <a href="https://twitter.com/hashtag/fughent?src=hash">#fughent</a> <a href="https://t.co/PhLFiw8zgX">pic.twitter.com/PhLFiw8zgX</a></p>— Cristina #NoTTIP (@chumillas) <a href="https://twitter.com/chumillas/status/736497344435326976">28. Mai 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+----
+
+Tags: refactoring,css,pattern library

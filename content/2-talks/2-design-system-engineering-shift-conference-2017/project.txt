@@ -1,0 +1,23 @@
+Title: Design Systems Engineering - Shift Conference 2017
+
+----
+
+Date: 2017-06-01
+
+----
+
+Text: 
+
+In 2015 we started with an iterative rebuild of our user interface at trivago. With this we introduced a Design System and started to rethink the way we build our user interfaces in code and design. I'll present our experiences, approaches and learnings with integrating and rolling out the System.
+
+Slides:
+
+<script async class="speakerdeck-embed" data-id="e068910a8468417f802fa04790394de0" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+<br>The recording:
+<div class="ar-box ar-box--wide"><div class="ar-box__source teaser-box">
+<iframe class="video-frame__source" src="https://www.youtube.com/embed/2qBNo0PjKyM" frameborder="0" allowfullscreen></iframe></div></div><br>
+
+----
+
+Tags: 

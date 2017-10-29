@@ -1,0 +1,9 @@
+Title: CSS done right - Post RTLCSS
+
+----
+
+Date: 2017-07-07
+
+----
+
+Text: Our first right-to-left platform was released in 2014. We had developed a solution to generate right-to-left CSS with Sass mixins and variables as we have described in a blog article. We used this approach for nearly 3 years but recently migrated the right-to-left generation from pre-processing to post-processing with RTLCSS. With this article I would like to share the reasons for the migration as well as our experiences and lessons learned.  [(link: http://tech.trivago.com/2017/07/07/css-done-right---post-rtlcss/ text: Read more)]

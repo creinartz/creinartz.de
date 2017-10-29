@@ -1,0 +1,25 @@
+Title: Was nicht passt wird responsive gemacht! - Conference Edition
+
+----
+
+Year: 2014
+
+----
+
+Text: 
+
+After i had done two very successful variations of my talk about responsive web design i decided to apply as a speaker for the code.talks 2014 conference in Hamburg. This was my first talk on a conference event. I was honoured to do my talk on the main track in cinema hall 1 of the cinemaxx in Hamburg on a incredible huge stage. This talk was filmed, you find the video below.
+
+The Slides of the conference talk
+<div class="video-frame video-frame--normal mb-24"><iframe src="//www.slideshare.net/slideshow/embed_code/key/cGbfZMu7kLFfn5" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" class="video-frame__source"  allowfullscreen> </iframe></div>
+
+Recording of the talk on youtube
+<div class="video-frame video-frame--normal mb-24"><iframe src="https://www.youtube.com/embed/liOimoQSrxU" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" class="video-frame__source"  allowfullscreen> </iframe></div>
+
+----
+
+Tags: 
+
+----
+
+Date: 2014-10-12
