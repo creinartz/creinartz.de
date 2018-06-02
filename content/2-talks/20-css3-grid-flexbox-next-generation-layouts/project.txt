@@ -1,0 +1,21 @@
+Title: CSS3 Grid & Flexbox - next generation layouts
+
+----
+
+Year: 2015
+
+----
+
+Text: 
+
+A talk about the new CSS Layout modules Flexbox and Grid at PottJS Meetup. CSS Flexbox and CSS Grid offers us new possibilities in defining our layouts. This talk gave a introduction in CSS Layout methods and explained the opportunities of newer modules.
+
+<div class="video-frame video-frame--normal"><iframe src="http://creinartz.github.io/css-grid-flexbox/" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" class="video-frame__source"  allowfullscreen> </iframe></div>
+
+----
+
+Tags: css3,flexbox,css-grid
+
+----
+
+Date: 2015-03-01

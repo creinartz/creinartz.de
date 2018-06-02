@@ -1,0 +1,23 @@
+Title: Was nicht passt wird responsive gemacht! - Extended Edition
+
+----
+
+Year: 2014
+
+----
+
+Text: 
+
+Was nicht passt wird responsive gemacht! - Extended Edition. An extended Version of my talk about responsive web design in preparation of my presentation at code.talks 2014 conference in Hamburg. 
+This talk was presented at the Open Tech School Meetup in Dortmund.
+
+The slides:
+https://www.slideshare.net/slideshow/embed_code/key/M3wnt2XetAp8EI
+
+----
+
+Tags: 
+
+----
+
+Date: 2014-09-01

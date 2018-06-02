@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <meta name="theme-color" content="#222222"/>
 
   <title><?php echo $site->title()->html() ?> | <?php echo $page->title()->html() ?></title>
   <meta name="description" content="<?php echo $site->description()->html() ?>">
@@ -13,6 +14,7 @@
   <link rel="dns-prefetch" href="https://www.creinartz.de/" />
   <link rel='dns-prefetch' href='//fonts.googleapis.com' />
   <link rel="shortcut icon" href="<?php echo url() ?>/favicon.ico">
+  
   <?php if(isset($bNoRobots)): ?>
     <meta name="robots" content="noindex">
   <?php endif ?>

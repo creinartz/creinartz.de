@@ -1,0 +1,19 @@
+Title: My Product has a Web Frontend - PoDUS
+
+----
+
+Date: 2017-10-25
+
+----
+
+Text: 
+
+My Product has a Web Frontend - And what I might want to think about
+
+A very spontaneous talk at the Product Owner Meetup Düsseldorf
+
+(link: https://creinartz.github.io/my-product-has-a-web-frontend/ text: The slides)
+
+----
+
+Tags: Product Development

@@ -1,0 +1,21 @@
+Title: The State of CSS
+
+----
+
+Date: 2018-05-17
+
+----
+
+Text: 
+
+The State of CSS 
+
+CSS-in-JS, CSS modules, Styled components, CSS-outside-of-JS, BEM, Atomic CSS, Utility CSS, CSS Grid, CSS Custom Properties. Bingo!
+CSS has never been as exciting as these days. The talk will provide a not so in-depth overview on CSS in 2018.
+
+See the slide here:
+https://creinartz.github.io/the-state-of-css/
+
+----
+
+Tags: css

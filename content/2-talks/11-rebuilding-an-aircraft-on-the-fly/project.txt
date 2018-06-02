@@ -1,0 +1,23 @@
+Title: Rebuilding an aircraft on the fly
+
+----
+
+Date: 2016-10-22
+
+----
+
+Text: 
+
+I talked about our experiences with rebuilding our user interface at large scale on trivago.com in 2016. This talk contains parts of my "Project Ironman" and the "Pattern library meets Symfony" talk.
+https://duesseldorf.devfest.de/schedule/day1?sessionId=118 
+
+At trivago we started with an iterative rebuild of our user interface in the beginning of 2015. Next to establishing a pattern library and thereby introducing a Design System we started to rethink the way we build our user interfaces in code and design. We adapted several methologies like Atomic Design, changed our design development workflows, did a CSS refactoring - called Project Ironman - , improved our frontend stack and changed the way we build our assets and started to rebuild the core UI components of our main product in 2016.
+
+This talk will provide insights in our journey with rebuilding our UI at large scale in an iterative way. It will present the challenges we encountered in code, design and our processes and how we solved them. The outcome will be highlighted with real data and some of our business metrics. However it will also show some of our mistakes we did while integrating the Design System and will present the lessons we have learned out of that.
+
+Slides:
+https://speakerdeck.com/creinartz/rebuilding-an-aircraft-on-the-fly
+
+----
+
+Tags: design system,pattern library
