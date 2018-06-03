@@ -1,0 +1,177 @@
+Title: Noslidesconf, coffee & Bologna
+
+----
+
+Date: 2016-01-16
+
+----
+
+Author: admin
+
+----
+
+Tags: 
+
+----
+
+Text: 
+
+Noslidesconf, coffee & Bologna
+It all started in August this year. Christian Heilmann tweeted something about a conference without slides, just hands-on and live coding. Challenging I thought and after I had a break of a few weeks after my Project Ironman tour I decided to apply.
+
+
+Christoph Reinartz
+@pistenprinz
+ Never do a live demo in a talk, they said. I didn't listen and submitted a challenging proposal for @noslidesconf. Live demo all the things!
+
+9:08 PM - Aug 17, 2016
+11
+See Christoph Reinartz's other Tweets
+Twitter Ads info and privacy
+I do love challenges. And I already had a good idea: I wanted to live code something with our large scale codebase at trivago. I thought this might be very interesting to see how we do live changes to our codebase, e.g. implementing an A/B test. I submitted a very vague proposal about this idea and asked the organisers to tell me whether they were interested. They did so and came back to me in October and asked for my a final abstract. Things became serious.
+
+So I’ve submitted my final abstract:
+
+Let us build a feature on Trivago
+A feature implementation in the production codebase of one of the biggest metasearch engines worldwide. Trivago is a highly data driven company and this session will show how we implement an A/B test into our core product. The demo will show the lifecycle of a feature, from implementation, through testing, review and finally to deployment.
+
+Wohoo! The first step was done.
+
+
+NoSlidesConf
+@noslidesconf
+ Are you interested in how a big company put a new feature in production ? For real? @pistenprinz will show us at @noslidesconf @trivago
+
+9:39 PM - Oct 17, 2016
+9
+See NoSlidesConf's other Tweets
+Twitter Ads info and privacy
+This was the moment were I became really aware of what this actually meant. Yes live coding is already a challenge but relying on a very good internet connection and assuming that all internal systems and services were fully available on a Saturday morning is a step further.
+
+So now I had to do a few things: I had to make sure that the systems are available, that the deployment works, that my local environment works, my VPN connection is stable and that some people are volunteering to do a code review remotely on a Saturday morning. I could write an own article about the awesomeness of my colleagues, but I keep it just short: None of that was a problem.
+
+I did some trials, but what should I say none of them really worked out, at one I completely fu**** up the git branch, the other time I did a super nasty typo which took me ten minutes to discover and another time I had massive problems with the display port to HDMI adapter which caused me to do a reboot. D’OH! So this meant I had one try, what could possibly go wrong? At least I was confident about the story.
+
+From what I’ve learned from my conference talks throughout the year, be early enough at the location especially if you have never visited the area before. So I decided based on the available flights to go on Friday noon so that there is enough time to clarify a few things which are important:
+1) How do I get to the venue (I normally choose a Hotel as near as possible to the venue especially if I do have an opening slot to avoid any hassle e.g. with public transportation in the morning)
+2) Where do I get a coffee? (More on that later)
+3) How do I get from A to B. E.g. for a speaker dinner, do some sightseeing or visit a possible after party.
+4) I might be hungry and thirsty, so where do I get Pizza and beer?
+
+I had a wonderful flight, look at the picture which I took when we were over the Alps and I do love the Alps. Lovely or? I mean what could possibly go wrong after such a nice flight.
+
+15259421_1290883057640259_5563286098817638672_o
+
+My original plan was to take a taxi to the Hotel but when I left the airport, the Taxi were on the left side, on the right was the Areobus. I had a very good flight and decided to turn right. Taking the bus offered me some opportunities. First getting a bit to know the public transportation system as well as getting a bit more insight into the area itself. Google Maps told me to leave at Mille and take another bus line with the number 24c to a bus station close to the hotel. I realized soon that the public transportation system of Bologna is incredible, there are apparently hundreds of lines all with some letters at the end which apparently are variations of the route, so you had e.g. 24a, 24b, 24c, 11a, 11b, 11c and so on. I also saw a 12t. There were hundreds of busses and on some stations busses arrived every minute. Also if 11c drove to Rizzo this doesn’t meant 11b did either. It might decide to drive in a kind of same direction but then also not. Confusing. But I had Google Maps. My deep respect for the people in Bologna who were apparently able to understand that system.
+Later I found out that it was only 3km by feet from the city center to my Hotel which let me walk a few times also because I like walking and this is also a great opportunity to get the city and atmosphere to know.
+
+I was super satisfied with my Hotel HC3 in Bologna, after checking in I tried to resolve point 1 on my list and go the venue. This was quite easy as my hotel was only 200m from the venue and according to Google maps I apparently already crossed it during the walk from Istituto Aldini where 27a/b/c / (I don’t remember anymore) dropped me off. So a no-brainer, but I wanted to be sure. While going back from where I came from I passed a kind of backery / store / whatever. Time for a coffee I thought. A bit outside the city I hope I could get along with english, but who should not know what a coffee is? Remembering my Italian colleagues who are always drinking espresso from small cute cups I entered it and told the waiter to bring me a coffee. I’ve added a regular / normal coffee. I waited for my 150ml cup of coffee. But I received a cup in a size which I never expected that something like this exists. It looked like 1cl in a miniature cup. I was disappointed. I’ve received another super small glass, so I thought nice I get strong alcohol on top, but it turned out it was just water. Disappointing. The 1cl tasted well, but come on. I thought ordering 10 more but they also seemed to be very strong. I didn’t want to have a caffeine overdose.
+
+I passed by the venue. All good, super easy to find that in the morning. Speaker dinner was at 20.30 and I had to use public transportation to get there and I still had plenty of time.
+
+I entered Bus 11c to Rizzo. One of my colleagues gave me some hints on what to visit and as I had some time on Sunday morning I wanted to know how to get there. On the way back to the Hotel I tried to get another (proper) coffee but again I received a small cute cup with 1cl compressed coffee. I’ve complained on Facebook about that and my colleagues told me I need to ask for a Americano to get my coffee. I decided to try to make use of that information at a later time. I still hadn’t resolve point 2 on my list about the coffee, but I made a checkmark behind 3 and 4. I didn’t find any super market but dozens of shops & restaurants, so eating and drinking (coffee excluded) was possible nearly everywhere.
+
+img_20161202_174217
+
+The dinner was at Ristorante Pizzeria L’amafitana. A super nice place and I do love Italian food. I got the organizers and other speakers to know – such lovely people – but I was also very tired. After some tortellini and Pizza and approximately one liter of beer I decided to leave soon also because I became really nervous and normally I tend to not sleep so super well before talks. I went to toilet and the water tap was somehow broken so that the water ended up on my pants instead of on my hands and it looked like I have peed in my pants. How embarrassing. I said good bye and followed the Google Maps instructions.
+
+I had to take 27b at a station 800 meters away which should drop me off 1.2 km from the hotel away. What should I say, the confusing transportation system seems to be very reliable, the bus came on time and I was back in the hotel at 11:30pm. Good night.
+
+At breakfast I’ve realized that the coffee machine offered a option “Americano”. Omg I was relieved. Finally I was able to resolve point 2 on my list: a proper coffee <3. This is exactly what I need before a talk. I had 3. Also I’ve realized that the breakfast was more sweeties, cookies and cakes but I’ve also found some bread and cheese. I’m vegetarian btw.
+
+The hours before a talk I’m always in a kind of a tunnel. I went to the venue, the most critical things to solve now was finding out asap whether the beamer connection as well as the internet connection works. People were so lovely and helpful. At 9am I was confident that the whole thing seems to go in right direction. Beamer worked, Internet was incredibly stable and fast. The trivago hotel search application was smoothly running on my local machine. Nevertheless I was really nervous. I let my colleagues now everything is good and I’m ready. See this conversation of the slack channel that I had created for the conference.
+
+bildschirmfoto-2016-12-05-um-22-44-17
+
+Omg I was so nervous, you can see that a lot of my responses where just “haha” or “ahaha”. But I had to do this thing. So I started with my session. First I’ve introduced myself and a bit of what I’ll doing the next 45 minutes. Kicking off the feature starts with a task.
+
+View image on TwitterView image on Twitter
+
+NoSlidesConf
+@noslidesconf
+ Let us build a feature on @trivago with @pistenprinz@noslidesconf #noslides
+
+10:50 AM - Dec 3, 2016
+6
+See NoSlidesConf's other Tweets
+Twitter Ads info and privacy
+So as you can see after 5 minutes I was good in time. Also I don’t know every time I’m on stage I always have to make side notes of Agile (note the capital A). As you can see “noEstimates” is highlighted and not a valid entry for story points. But we didn’t had time for planning poker games.
+Before going into coding itself I’ve explained a bit of the architecture and tools we use.
+
+View image on Twitter
+View image on Twitter
+
+David Pilato🇪🇺🇫🇷
+@dadoonet
+ .@pistenprinz from @trivago for the first live coding session at @noslidesconf
+
+11:02 AM - Dec 3, 2016
+2
+See David Pilato🇪🇺🇫🇷's other Tweets
+Twitter Ads info and privacy
+I started to create the feature, added a modal box from our Pattern Library and implemented this as an multi variant test with a feature toggle. What could possibly go wrong, yes something went wrong. The modal box component was somehow really broken as you can see later, but ok, the audience didn’t seem so much front-end / UX focussed. So I just told them the layout is broken and we don’t care. But I did care a lot, I fired up the inspector but soon realized this was not the right moment to fix / investigate some nasty markup / CSS issues, so I’ve just continued as nothing has happened. This was the most critical point of the presentation.
+
+View image on Twitter
+View image on Twitter
+
+Mauro Piccotti
+@MauroPiccotti
+ Coding is much more !important than showing slides so: #NoSlides conference, by @noslidesconf... stressing for @pistenprinz I guess.
+
+11:17 AM - Dec 3, 2016 · Bologna, Emilia Romagna
+5
+See Mauro Piccotti's other Tweets
+Twitter Ads info and privacy
+Also I didn’t had another choice. Later I found out that it was just a class mismatch. Damn! All other stuff went to super smooth. Unbelievable, no nasty typos, nothing.
+While implementing the feature I did several reloads of the application to prove that my changes are working, e.g. after creating the feature toggle, I showed that I can activate and deactivate it. Also after pulling in the new UI component from our pattern library I had to rebuild the assets to get the component styled.
+After approximately 30 minutes I was able to push the feature and created the pull request. I had changed 9 files, and had written around 100 lines of code in PHP, twig, Scss and XML.
+
+View image on Twitter
+View image on Twitter
+
+NoSlidesConf
+@noslidesconf
+ Creating a #noslides pull request after push @trivago_tech with @pistenprinz @noslidesconf
+
+11:16 AM - Dec 3, 2016
+5
+See NoSlidesConf's other Tweets
+Twitter Ads info and privacy
+I let my colleagues know it is ready for code review after 30 minutes. You can’t do a deployment until someone has approved your code.
+
+bildschirmfoto-2016-12-05-um-23-00-29
+
+I’ve added some easter eggs like an unnecessary !important to trigger some comments. It has worked.
+
+bildschirmfoto-2016-12-06-um-16-26-10
+
+Now everything was ready to start the deployment. I started to trigger it with our build systems and explained to the audience what is happening. The deployment went through without errors in 6 minutes.
+
+
+Roberto Bettazzoni
+@bettazzoni
+ From user story to [approved] deploy in 30 min. Bravo! https://twitter.com/noslidesconf/status/804977636653039616 …
+
+11:31 AM - Dec 3, 2016
+9
+See Roberto Bettazzoni's other Tweets
+Twitter Ads info and privacy
+After around 40 minutes I was done, the feature was deployed to an internal staging systems. It looked a bit broken, but YOLO. I did the final show case of activating and deactivating the feature and told the audience that I forgot to implement the close button functionality and finished after 39 minutes at 10.24am my session. WOHOO!!!
+
+bildschirmfoto-2016-12-06-um-23-18-26
+
+Yes and I did mention that there was a small issue with the layout. See here:
+
+cyvelctwqaatyj4
+
+I’ve answered a couple of questions which is normally the most exhausting part for me after a presentation because I’m then completely out of energy. Nevertheless I’ve answered some really cool questions. After the presentation there was coffee break, but guess there was no Americano only this 1cl coffee.
+
+I enjoyed the rest of the day with other really amazing live coding session with a lot of diversity in topics. What a cool concept for a conference.
+
+I went to bed at 10pm because I was terrible tired and I wanted to use the Sunday morning to visit the city center before I had to catch my flight in the early afternoon. So I set my alarm clock to 6.30am had a few delicious Americano at breakfast and went to the city center.
+
+img_20161204_101500
+
+I visited the area around Piazza Maggiore. What a beautiful area of Bologna with a lot of old buildings.
+
+What a great but exhausting weekend. Looking forward to the next noslidesconf.

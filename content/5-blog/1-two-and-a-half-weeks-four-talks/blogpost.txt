@@ -1,0 +1,216 @@
+Title: Two and a Half Weeks: Four Talks
+
+----
+
+Date: 2017-06-18
+
+----
+
+Author: admin
+
+----
+
+Tags: CSS,Design System,Speaker
+
+----
+
+Text: 
+
+Two and a Half Weeks: Four Talks
+Disclaimer: It has been exactly 20 days but it felt like two weeks and a half. And it sounds better.
+
+I did it again. Actually after having done a conference marathon last year with my talk about our large scale CSS refactoring project aka Project Ironman I thought I’ll never do something like this again. Either it might not happen again or I might decide to don’t do such an exhausting (but great) thing again.
+
+After I did a small break after ScotlandCSS in June last year I did another presentation at a local Google Developer Devfest in Düsseldorf last year. I put the refactoring into its bigger context (roll-out of a Design System) and called the talk “Rebuilding an aircraft on the fly“. The feedback was overwhelming and actually I’m so passionated about Design Systems and like to be involved and contribute to its community and if it just sharing some experiences we’ve made I thought to do something with this on maybe one or two conferences in 2017.
+
+It basically started in Sofia end of March. I had been invited to speak at MobCon Europe. I’ve prepared a 135 slides slidedeck about our journey with rebuilding our UI at large scale and rolling out a Design System. The feedback of my session was overwhelming as the survey after my talk revealed:
+
+Learning Value: 4.42
+Session Content: 4.68
+Speaker’s Pace & Timing: 4.58
+Speaker’s slides: 4.89
+Speaker’sProfessionalism: 4.79
+Audience Engagement: 3.89
+Speaker’s Knowledge: 4.95
+Average Result: 4.6
+
+The rating scale was from 1 – 5 and this are the results of 19 votes. Given that around 200 people attended my talk this is the evaluation of 10% of the audience.
+
+I wouldn’t apply / submit for a talk if I wouldn’t be sure that the content is good but I didn’t expect people perceive it as that good.
+
+So it came that I had a tough schedule ahead I felt confident to commit to after my experiences with the new talk topic.
+
+12nd May – WeAreDevelopers, Vienna
+23rd May – Code Europe, Wroclaw
+25th May – Code Europe, Warsaw
+1st June – Shift Conference, Split
+
+WeAreDevelopers
+Oh. I got sick the weekend before and two days before the event I even had to call in sick at work. Some medicine and hours of sleep later I made it to the Airport on the 10th of May.
+I was nervous already the weeks before. People might think it gets easier and if you’ve already spoken at more than 10 conferences than it becomes like a routine to do a talk. That’s not how it is for me. You do more talks, you gain more experience, you want to get better, you have higher expectations in yourself, the audience might have heard of you, they might have a higher expectation as well, people paid for your talk etc. All this came to my mind after having done my first talks.
+Back to Vienna. I had a good flight, took the City Airport Train and bought a 72h Vienna ticket for public transportation.
+I arrived at Ruby Marie Hotel. I  have been at a lot of fantastic hotels before, especially because trivago offers from time to time a very luxury company trip but this Hotel was so lovely and I loved every detail. Have a look at the picture which I took at the rooftop before leaving Vienna on Saturday the 13th.
+
+
+
+I was super tired but wanted to get to Schloss Schönnbrunn on the day of my arrival. When I’m at locations for public speaking engagements I normally do “sightseeing speed dating” with a very tough schedule. Schloss Schönnbrunn was on my schedule this time. I ruined a super market next to the Hotel with picking up a beer and accidentally throwing a couple of cans of the floor. Some exploded. What a mess.  But Schloss Schönnbrunn was worth the visit.
+
+
+
+One reason why I was nervous this time was the amount of people at the conference. At the end it have been ~3800. The queue was bit long and people had to wait. 4 coffee machines for all of them. Developers tend to get sad if they don’t get coffee. The venue was super cool. The Marx Halle in Wien. The main stage was incredibly huge with space for around ~1600 people. Impressive in size. The biggest event I have ever been to.
+
+
+
+I’ve spent the first day with a lot of networking, doing some finetuning of my slidedeck and listening to talks. My personal highlight was the talk of John Romero about the early days of ID Software and every time he asked, who had played this game I could raise my hand. I played them all. In god mode because I was 12 and afraid of all those monsters.
+At the end of the first day there was a speaker party which I attended for a couple of hours before leaving around midnight to the hotel.
+
+The day of the talk. I’m always in a tunnel already at breakfast. My talk was scheduled at 10.30am. A perfect time for me. I went to Harry’s talk to get a bit distraction before my talk and went over to my stage at 10.15am.
+
+The room offered seats for around 330 people, but more than additional 50 to 100 hundred were standing around. The challenge of that talk was that I basically somehow squeezed the 45 minutes talk from Sofia into a 30 minutes talk. I had 119 slides instead of 135. I had to go through the story very fast but I followed the thread and at the end I’ve exceeded my talk time with 1 minute which was also ok because there was a break after my talk. Otherwise exceeding your talk limit might be unfair to the following speaker.
+
+
+
+Questions came up, and people came to me in person and we discussed in a small round about Design Systems. Others provided me with nice and valuable feedback while I did a small walk through the venue after my talk. One of the nicest feedback you can get is when people tell you your talk motivated and inspired them.
+
+I went to the hotel in the late afternoon to get an hour of rest and enjoyed another speed sightseeing tour in the evening.
+
+
+
+Thank you Vienna. Thank you WeAreDevelopers.
+
+Slides of my talk: https://speakerdeck.com/creinartz/rebuilding-an-aircraft-on-the-fly-2
+The recording of my talk: https://www.youtube.com/watch?v=quMHbpWZieo
+
+Code Europe Wroclaw & Warsaw
+I’ve changed my talk from Vienna a bit. The session length for Code Europe was again 45 minutes and I put a bit more focus on the early history of UI development at trivago. All in all the story has been the same but with a bit of different content and focus. I actually have never done the same talk twice.
+
+Hello Wroclaw. There’s only one high building.
+
+
+
+What a tiny cute Airport. When I entered the entrance hall there was a Code Europe booth and people I’ve never met before where smiling and waving at me. What a nice welcome. The first time in the next days where I thought: Wow this is greatly organized with a lot of love to the details. And kept thinking this during my whole stay in Poland organized by CodeEurope. I shook hands with the people and have been told that the driver which gets me to the Hotel will arrive in 5 minutes. So he did. And I’ve met Ian Philpot. We were brought with a 20 minute ride to the Hotel. We couldn’t check in because it was 1:15pm and the rooms are not available before 3pm. So Beers.
+
+
+
+I entered my room at 4.30pm. I did a 1 hour nap and made myself ready for the welcome drinks session in the hotel at 6pm. I’ve received a message from the organizers that I can pick up a package at the reception.
+
+
+
+Wow. Thank you!
+
+I went to the welcome drink session, took accidentally the strongest craft beer available and realized I was already tipsy.
+
+The conference day Wroclaw. Did I mention the organisation? There was a shuttle plan and one bus and a taxi were driving between Hotel and venue nearly every hour. I took the first bus although my talk was at 12.45, but I’m  not going just to speak myself I also want to contribute to the conference as an attendee. The venue was lovely, a lot of stages, I think it have been 6 or 7. I explored mine and I liked it.
+
+
+
+I visited a few talks and went to the VIP room around 10pm. Such a lovely venue. But now preparation time for my talk. I was more nervous than I needed to be but on the other hand I wanted to deliver a decent talk. Coffee, charging laptop, toilet, coffee, toilet, toilet. That’s how the last hour before my talk looked liked.
+
+
+
+I went on stage on did my talk. It went very good, I was confident and on 100%. The room was overcrowded like at WeAreDevs, I guess it could have been around 400 people. But then something happened. After around 75-80% of my talk the microphone didn’t work anymore. I realized it but continued because also nobody from the technicians seem to be at their desk. But after a few seconds I stopped and people from the audience mentioned they couldn’t hear me. Oh. F***. What to do now? I looked to my left where the table of the technician was but apparently he wasn’t there. I was once again reminded from the audience that my microphone still didn’t work. So then let’s see how can I fix it, so I went off the stage to the area of the technician. When I arrived 20 meters later at his desk, he suddenly jump up on his chair. Apparently he had taken a nap during my talk. I was highly irritated but apparently he as well. He handed me another microphone and apologized. Some people were laughing about this situation. “So what?” I thought and went back to stage, a bit out of the flow I went a couple of slides back and finished the talk.
+
+
+
+I answered again some questions in person and did a small video interview for a local tv station.
+
+I spent the day with listening to other talks and networking with other attendees and speakers. In the evening we had a speaker dinner in the old town of Wroclaw. Nice food, nice chats and a lovely location.
+
+
+
+We were brought back to the Hotel at 11.30pm and at the next morning we had a transfer by bus to Warsaw. The Wifi within the bus didn’t work. But also most people including myself spent the time with some chats, reading a book, watching a moving or doing a nap.
+
+During that time somebody dropped that tweet to me.
+
+View image on Twitter
+View image on Twitter
+
+Lukasz Oslizlo
+@lukaszmtw
+ Hey @pistenprinz, awesome talk at the @code_europe yesterday!
+
+12:04 PM - May 24, 2017
+14
+See Lukasz Oslizlo's other Tweets
+Twitter Ads info and privacy
+Thank you very much Luke! Love that shot.
+
+I was very much looking forward to Warsaw and I have not been disappointed when we arrived in Polands capital. Impressive, especially the Palace and all the modern Skyscrapers around. Check-in at the Hotel. I had planned to go a free sightseeing tour which should start at the Palace with another speaker. From the window it looked like it is only a 10 minutes walk.
+
+
+
+I went to my room and did an interview call for a german magazine and there was a CSS-in-JS discussion in the trivago tech slack channels, where I thought I should leave my two cents in. At 3.45pm I realized I have to leave when I want to attend the tour, so I did. But the Palace was 20 minutes away through a labyrinth of tunnels under the streets. And when I arrived at the Palace I realized the starting point was somewhere else, Google said I had to walk 2.1km. WTF. No. And the Internet connection broke. I walked around a bit at the palace and then it started raining and then I’ve ended up in the office of a big global tech company. Networking and having a coffee.
+
+In the evening I attended another Welcome drink session and spent the evening at the bar of the Hotel. I was sober but I did not really sleep well. The location in Warsaw was the stadium. Yes the one that had been build for the UEFA European Championship 2012.
+
+I arrived a bit later as planned at around 11am at the venue and the organizers were so nice to give a bit of a tour through the inner stadium.
+
+
+
+My talk was scheduled at 17.25, the last slot. And my energy went down every minute of the day, I felt like my batteries are completely drained. Back to the speaker lounge, coffee and coffee, a walk in the fresh air, more coffee. My Garmin Vivoactive HR realized with its optical heart rate sensor that I shouldn’t drink any coffee anymore.
+
+It ended up in one the most hardest talks I’ve ever done, despite the one I’ve done after nearly not sleeping at all last year in Amsterdam but somehow I made it. This are maybe the situations where you get better in with a bit of experience. I made my performance, there were only very few free seats left in the room. And I’ve had some nice chats again after my talk.
+
+Another speaker dinner at the evening and my alarm clock was set to 4.30am. I took the first shuttle to the airport at 5am, slept there for 1h again and took my plane at 8.30am.
+
+
+
+I arrived at home around noon somehow made it through the afternoon and fall asleep in the evening. I slept 16h.
+
+Slides of my talk: https://speakerdeck.com/creinartz/design-systems-engineering-scaling-user-interfaces-at-trivago
+
+Shift Conference
+5 days after my talk in Warsaw I found myself in a plane again. This time to Shift Conference, a single track conference in Split. Apparently with Croatia Airlines everybody gets a snack and two drinks. Have a look Air Berlin, Eurowings and Co.
+
+Oh and what a beautiful view while landing:
+
+
+
+Boris – my driver – picked me up at Split Airport and brought me to my Hotel. It was already late, 8pm. So I bought some food on the street next to the Hotel and went to bed early. After removing my contact lenses I found out that I apparently forgot my glasses. I searched for them without seeing much in my luggage but couldn’t find them.
+
+I had a good night and after breakfast I walked to the venue which was around 1km from the Hotel. In. A. Theatre.
+
+
+
+I registered and had a look at the very majestic venue and its stage. Oh. My. God.
+
+My talk was scheduled at 15.15pm. So I’ve watched a couple of talks. Most impressive was to see how Chris Heilmann did his talk although only in the beginning the slides were shown, basically he had to do his talk without that the audience could see his slides. What a speaker machine.
+I also hoped to not run into technical issues this time, after the microphone situation at Code Europe and in April when I did a live demo at Symfony Live I had to interrupt my talk for about 5-7 minutes until the beamer had been fixed.
+
+30 minutes before my talk I went backstage. There was a small break before my talk. Here’s a picture I took after I’ve set up my macbook.
+
+
+
+Here’s another picture after I had been introduced and walked to the speaker desk while my intro song was played. I had chosen “Let there be rock” by Tocotronic. Actually I was super excited but because lots of lights were spot on me it was somehow hard to see something, that’s why I look a bit serious. This was such a amazing moment going on that stage.
+
+
+
+My talk was perceived well. I also had the feeling it went well, I have only seen 50% of the recording yet but I’m satisfied so far. I’m reading still too much speaker notes but it helps me to follow the thread and do my talk in time. But something I want to improve if I’m speaking again. But also I think its particular difficult if you adjust your talk for every conference.
+I had some really long chats with some attendees after my talk. We planned to stay in touch.
+
+The speaker dinner on the first day was Diocletian Place in the old town of Split. What a venue for a speaker dinner. I found a horse there.
+
+
+
+But this was only the beginning. There was a official party at a club in the middle of Split, the Central the Club.
+
+I don’t go too often into clubs anymore but after this amazing day it was no question whether to go or not. Again I got some nice feedback from attendees about my talk and had several other nice chats. What a great location to end the day of a speaking engagement.
+
+
+
+Day 2 of Split Conference. I was especially looking forward to the talk of Una Kravets and Laura Carvajal. And I was not disappointed after their talks. It was more the opposite. My expectations have been exceeded. Especially Laura’s talk was very informative for me because accessibility is a topic which I’m very passionated about too and it was so interesting to get some insights and learnings from the Financial Times.
+
+As I was not really hungry I’ve used the lunchtime of around 90 minutes to walk around Split and Split Port.
+
+There was another speaker dinner at the Gallery of Fine Arts which offered the opportunity for another couple of nice chats with other speakers.
+
+I left not too late because I had to get up at 4.20am because Boris was picking up Laura and me at 5am so that we could get our planes. Boris was very reliable. The driver you wish for.
+
+Heading back home. And the Alps. I love the Alps.
+
+
+
+It has been a great time. I’m grateful to have been part of the conferences and happy that everything went well.
+
+Slides of my talk: https://speakerdeck.com/creinartz/design-systems-engineering-scaling-user-interfaces-at-trivago-1
+The recording of my talk: https://www.youtube.com/watch?v=2qBNo0PjKyM

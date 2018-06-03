@@ -1,5 +1,5 @@
-title: Blog Article
-pages: true
+title: Blog Post
+pages: false
 files: true
 fields:
   title:

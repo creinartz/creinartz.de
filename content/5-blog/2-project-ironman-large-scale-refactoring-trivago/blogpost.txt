@@ -1,0 +1,40 @@
+Title: Project Ironman – Large Scale Refactoring @trivago
+
+----
+
+Date: 2016-01-16
+
+----
+
+Author: admin
+
+----
+
+Tags: 
+
+----
+
+Text: 
+
+I had the pleasure to give a presentation about Project Ironman at a user group in Dortmund.
+
+Project Ironman was the technical migration of the trivago hotel search’s existing CSS core to a pattern library based user interface.
+
+After a long journey, we started to establish a Design / Frontend System from the beginning of 2015 at trivago incl. introducing a pattern library, a atomic design workflow, new coding guidelines and adapted several methodologies like BEM or ITCSS to help us maintaining and developing our CSS/UI at large scale.
+Some of the top-level goals of creating a Design System was to ensure consistency in code and design of all our applications as well as reducing technical debt and keeping our application scalable.
+I gave a lightning talk at the beginning of 2015 to present our learnings and the issues caused by not having a complete design system at the LeanUX Meetup in Düsseldorf.
+In less than a year we were able to develop the base of a new Frontend / Design System and started to redesign / reimplement some of our applications like our trivago company pages.
+
+Nevertheless implementing a new CSS / frontend foundation in our core product the trivago hotel search was a completely different challenge. Around 100 people including Developers, Product Owners and Designers work on this application and a lot more have a stake in it, so there is now way around to do smooth (agile) transition and keep (product) development freezes, which will normally be caused by a refactoring, as low as possible.
+
+So therefore we decided to migrate the CSS foundation to the new base we have developed in our Design System in a very short timeframe and we only had to postpone a few UI related features. After this step is done we are able to built new UI components on a solid, modern and sustainable base.
+
+The project was a huge success, the proposed timeframe was 4 weeks and with an amazing spirit due to our incredible engineering culture and people we were able to finish this project within 3 weeks including positive metrics on the business side.
+
+We are currently working on a blog article about this project and we will publish it on our trivago tech blog as soon as it is finished.
+
+Until then, you might have a look at the slides.
+
+The talk was presented at the OpenTechSchool Meetup Dortmund and gives insights and background about the project scope, its implementation and the business value.
+
+https://www.slideshare.net/ChristophReinartz/project-ironman-large-scale-refactoring-trivago
