@@ -13,3 +13,7 @@ An (link: https://www.dobreprogramy.pl/Trivago-na-Code-Europe-Wlasny-jezyk-wzorn
 "Trivago is just starting a career in Poland, but it is not a young portal. Like most of the sites that have been running for a few years, they have finally "aged" and grown in a way that has to be sorted out. Recently, Trivago has undergone a thorough redevelopment of the interface, not only from the visual point of view, but also from the assumptions itself.
 
 Trivago has created a language of design and a framework that will open this year. Christoph Reinartz, who talked about this at Code Europe, compared the new design language to Lego, a design system that provides ready-made components and allows us to focus on usability and ease of use."
+
+----
+
+Hlink: https://www.dobreprogramy.pl/Trivago-na-Code-Europe-Wlasny-jezyk-wzornictwa-i-otwarty-framework,Wideo,81262.html

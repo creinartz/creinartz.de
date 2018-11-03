@@ -6,9 +6,7 @@ Text:
 
 Front-End Engineer,  Speaker and wannabe author from Germany. I'm working as a Team Lead UI/UX Engineering @(link: http://www.trivago.com text: trivago).
 
-(image: wroclaw.jpg)
-
-Photo credits: Luke Oslizlo @lukaszmtw
+(image: wroclaw.jpg alt: Me on stage at Code Europe caption: Photo credits: Luke Oslizlo @lukaszmtw)
 
 I've learned so much from the great developer community. I'm very grateful for that and like to give back as much as I can. In case you want to get me speaking at your event, do a Skype call with me or exchange about some topics with me feel free to get in (link: contact text: touch).
 

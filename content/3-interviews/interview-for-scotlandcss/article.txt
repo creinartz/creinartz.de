@@ -10,3 +10,11 @@ Text:
 
 The lovely team from (link: http://scotlandcss.com/ text: ScotlandCSS) asked me whether they can interview me. It was a big pleasure chatting with (link: https://twitter.com/varya_en text: Varya) who did this interview with me. Read the complete (raw and uncut) outcome here:
 http://scotlandcss.com/2016/04/04/interview-with-christoph-reinartz/
+
+----
+
+Hlink: http://scotlandcss.com/2016/04/04/interview-with-christoph-reinartz/
+
+----
+
+Link: http://scotlandcss.com/2016/04/04/interview-with-christoph-reinartz/

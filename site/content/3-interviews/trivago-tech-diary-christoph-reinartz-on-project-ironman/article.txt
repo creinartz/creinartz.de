@@ -1,0 +1,12 @@
+Title: trivago Tech Diary: Christoph Reinartz on Project Ironman
+
+----
+
+Date: 2016-05-04
+
+----
+
+Text: 
+
+A short video Interview on (link: https://medium.com/@pistenprinz/large-scale-css-refactoring-at-trivago-4602113c4a26#.tfqxj25ob text: Project Ironman): trivago’s intensive, large-scale CSS refactoring project which involved rewriting over 50,000 lines of code in 4 weeks. Done by my company, the trivago GmbH
+https://www.youtube.com/watch?v=yoBxWZ-SQ1E&feature=share

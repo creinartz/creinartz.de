@@ -3,10 +3,10 @@
   <main class="main" role="main">
 
     <h1><?php echo $page->title()->html() ?></h1>
-
+ 
     <ul class="meta cf">
-      <li><b>Date:</b> <time datetime="<?php echo $page->date('c') ?>"><?php echo $page->date('m/Y') ?></time></li>
-      <li><b>Tags:</b> <?php echo $page->tags() ?></li>
+      <li><time datetime="<?php echo $page->date('c') ?>"><?php echo $page->date('jS F, Y') ?></time>
+      - <?php echo $page->location() ?></li>
     </ul>
 
     <div class="text">

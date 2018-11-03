@@ -9,6 +9,6 @@
     </div>
 
   </footer>
- <?php echo js('assets/js/app.js') ?>
+ <!-- php echo js('assets/js/app.js') -->
 </body>
 </html>

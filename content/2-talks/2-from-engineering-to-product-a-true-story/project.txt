@@ -1,0 +1,19 @@
+Title: From Engineering to Product - A true story
+
+----
+
+Date: 2018-10-11
+
+----
+
+Text: 
+
+**Talk abstract**
+I’ve worked for several years as a frontend developer in different agencies and since 2012 at trivago where I have been a Team Lead for UI/UX Engineering for years. I’ve shared a lot of experiences at different conferences in Europe from 2015 - 2017 and specialised in CSS and Design Systems. Recently though I left my comfort zone and switched roles to a product lead. In this talk I’ll explain what has inspired me over the years to leave my engineering role behind me, what I’ve learned during the transition and what challenges I have gone through.
+
+Slides
+https://speakerdeck.com/creinartz/from-engineering-to-product-a-true-story
+
+----
+
+Tags: 

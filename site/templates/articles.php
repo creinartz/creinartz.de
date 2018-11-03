@@ -10,9 +10,10 @@
         <div class="teaser-list">
             <ul>
                 <?php foreach(page()->children()->sortBy('date', 'desc') as $article): ?>
-                    <li>
-                        <h3><?php echo $article->title()->html() ?></h3>
-                        <p><?php echo $article->text()->kirbytext() ?></p>
+                    <li class="mb-2e">
+                        <time class="block" datetime="<?php echo $article->date('c') ?>"><?php echo $article->date('jS F, Y') ?></time>
+                        <h2><a href="<?php echo $article->link() ?>"><?php echo $article->title()->html() ?></a></h2>
+                        <span><?php echo $article->text()->kirbytext() ?></span>
                     </li>
                 <?php endforeach ?>
             </ul>

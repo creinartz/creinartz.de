@@ -1,0 +1,17 @@
+Title: [S02E05] Interview with Christoph Reinartz
+
+----
+
+Date: 2017-09-08
+
+----
+
+Text: 
+
+This Podcast is in German.
+
+Design System und Kultur bei Trivago
+
+Christoph Reinartz ist UI/UX Engineer und Fullstack Developer bei Trivago. Wir sprechen in unserem Interview mit ihm über das bei Trivago eingeführte Design System und die Kultur der Produktteams. Der Podcast ist hier zu (link: https://www.uiengineering.de/podcast/s02e05-christoph-reinartz.html text: finden)
+
+"Um die Designer und Product Owner mit an Bord zu holen geht es ja auch darum, eine gemeinsame Sprache zu entwickeln. Damit die Leute ein gemeinsames Verständnis haben, von dem was man macht."

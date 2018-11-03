@@ -4,7 +4,11 @@
 }
 .logo {
 	display: block;
+	&:hover {
+		border-bottom: 0;
+	}
 }
+
 .logo img {
 	width: 12em;
 }

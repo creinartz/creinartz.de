@@ -1,0 +1,27 @@
+Title: Large Scale CSS Refactoring - CodemotionWorld Amsterdam
+
+----
+
+Date: 2016-05-12
+
+----
+
+Text: 
+
+My talk at CodemotionWorld Amsterdam 2016
+
+The talk abstract:
+
+*Project Ironman: the technical migration of the trivago hotel search’s existing CSS core. *
+
+*Keeping technical debt low while developing a CSS base on a large scale project is a tough challenge. Even more exciting is to refactor existing CSS / frontend foundations which became cluttered. The talk will provide backgrounds, insights, learnings and technical approaches of refactoring a CSS base on a large scale project including its scope, the outcome and the business value.*
+
+See the slides here:
+https://speakerdeck.com/creinartz/large-scale-css-refactoring
+
+The recording:
+https://www.youtube.com/embed/ALaQC4i1ax8
+
+----
+
+Tags: refactoring,css,pattern library

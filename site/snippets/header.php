@@ -12,7 +12,6 @@
   <meta name="author" content="creinartz">
   <link rel="manifest" href="manifest.json">
   <link rel="dns-prefetch" href="https://www.creinartz.de/" />
-  <link rel='dns-prefetch' href='//fonts.googleapis.com' />
   <link rel="shortcut icon" href="<?php echo url() ?>/favicon.ico">
   
   <?php if(isset($bNoRobots)): ?>
@@ -20,8 +19,7 @@
   <?php endif ?>
 
   <?php echo css('assets/css/site.css') ?>
-  <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
-</head>
+ </head>
 <body>
 
   <header class="header cf">
@@ -32,7 +30,7 @@
           <text transform="matrix(1 0 0 1 -2.002716e-05 20.6076)" font-size="28px" dominant-baseline="middle">Christoph Reinartz</text>
         </svg>
       </a>
-      <h1 class="site-title">Front-End Engineer</h1>
+      <h1 class="site-title">Design Technologist 🚀</h1>
     </div>
 
     <?php snippet('menu') ?>

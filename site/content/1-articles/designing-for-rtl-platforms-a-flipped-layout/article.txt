@@ -1,0 +1,13 @@
+Title: Designing for RTL platforms - A flipped layout
+
+----
+
+Text: 
+
+Your favorite hotel search, trivago, is already available in countries as different as Mexico, South Korea and New Zealand. We are continuously opening new platforms worldwide.
+As an international team, one of our goals is to be as close to the needs of our users as possible. This entails that we need to consider the cultural peculiarities from an engineering perspective. Things like different timezones and character encodings constantly remind us, that there is no center of the world.
+For our expandation in the middle east area with our platforms in Israel and United Arab Emirates we had a particularly interesting problem to solve: How do we flip the layout of our page? (link: http://tech.trivago.com/2015/04/27/right-to-left/ text: [Read more])
+
+----
+
+Date: 2015-05-14

@@ -1,0 +1,20 @@
+Title: Build and ship a feature on trivago
+
+----
+
+Date: 2017-04-07
+
+----
+
+Text: 
+
+Live demo session of a feature implementation workflow at Symfony Live Cologne 2017
+
+Abstract (in german):
+In dieser Session zeige ich wie wir einen A/B Test in unserem Kernprodukt, der auf Symfony basierten trivago Hotelsuche, implementieren. Der Vortrag zeigt den Lebenszyklus eines Features beginnend von der Task-Erstellung, über die eigentliche Implementierung hin zu Testing und Code Review. Nach erfolgter Prüfung werden wir das Feature releasen und den A/B Test aktivieren.
+
+Neben der technischen Seite der Implementierung gehe ich auch auf den Workflow sowie die Engineering Culture in unserem large scale environment ein.
+
+----
+
+Tags: live coding

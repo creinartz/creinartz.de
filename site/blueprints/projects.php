@@ -3,7 +3,7 @@
 title: Projects
 pages:
   template: project
-files: false
+files: true
 fields:
   title:
     label: Title

@@ -11,6 +11,9 @@ fields:
   date:
     label: Date
     type:  text
+  location:
+    label: Event
+    type:  text
   text:
     label: Text
     type:  textarea

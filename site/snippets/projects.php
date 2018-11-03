@@ -1,7 +1,15 @@
-<?php foreach(page('talks')->children()->visible()->limit(25) as $project): ?>
-  <a href="<?php echo $project->url() ?>" class="ar-box ar-box--extra-wide mb-24 fullsizebg block" style="background-image: <?php if($image = $project->images()->sortBy('sort', 'asc')->first()): ?>url('<?php echo $image->url() ?>')<?php endif ?>">
-    <div class="ar-box__source teaser-box">
-      <h4><?php echo $project->title()->html() ?></h4>
-    </div>
-  </a>
-<?php endforeach ?>
+<div class="teaser-list">
+  <ul>
+    <?php foreach(page('talks')->children()->visible()->limit(25) as $project): ?>
+    <li class="mb-15e">  
+      <time class="block" datetime="<?php echo $project->date('c') ?>"><?php echo $project->date('jS F, Y') ?></time>
+      <h3 class="mb-0">
+        <a href="<?php echo $project->url() ?>">
+          <?php echo $project->title()->html() ?>
+        </a>
+      </h3>
+      <small class="block"><?php echo $project->location() ?></small>
+    </li>  
+    <?php endforeach ?>
+  </ul>
+</div>

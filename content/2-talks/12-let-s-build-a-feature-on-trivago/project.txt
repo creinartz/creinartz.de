@@ -1,0 +1,28 @@
+Title: Let's build a feature on trivago
+
+----
+
+Date: 2016-12-03
+
+----
+
+Text: 
+
+I had the pleasure to a live demo session at the (link: http://www.noslidesconf.net/ text: noslidesconf) conference in Bologna. 
+
+Abstract:
+A feature implementation in the production codebase of one of the biggest metasearch engines worldwide. Trivago is a highly data driven company and this session will show how we implement an A/B test into our core product. The demo will show the lifecycle of a feature, from implementation, through testing, review and finally to deployment.
+
+I blogged about this experience. Read more (link: https://blog.creinartz.de/2016/12/11/bologna-noslidesconf/ text: here).
+
+The recording:
+https://www.youtube.com/embed/-4Sy-uYU_i8
+
+Some pictures from the live coding session<br>
+(image: 15391344_1921906191374777_2248081824847876989_o.jpg)
+(image: 15385496_1921903314708398_8416297749062322389_o.jpg)
+(image: 15493522_1921902911375105_8864432670697699003_o.jpg)
+
+----
+
+Tags: release,live coding

@@ -13,3 +13,6 @@ fields:
   text:
     label: Text
     type:  textarea
+  link:
+    label: Link
+    type:  text

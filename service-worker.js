@@ -1,9 +1,9 @@
-const staticCacheName = 'creinartz-v1';
+const staticCacheName = 'creinartz-v2';
 const staticFilesToCache = [
   './',
   './index.php'
 ];
-const dynamicCacheName = 'creinartz-v1';
+const dynamicCacheName = 'creinartz-v2';
 
 self.addEventListener('install', e => {
   console.log('[ServiceWorker] Installed Service Worker');

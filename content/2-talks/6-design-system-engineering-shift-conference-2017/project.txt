@@ -1,0 +1,21 @@
+Title: Design Systems Engineering - Shift Conference 2017
+
+----
+
+Date: 2017-06-01
+
+----
+
+Text: 
+
+In 2015 we started with an iterative rebuild of our user interface at trivago. With this we introduced a Design System and started to rethink the way we build our user interfaces in code and design. I'll present our experiences, approaches and learnings with integrating and rolling out the System.
+
+Slides:
+https://speakerdeck.com/creinartz/design-systems-engineering-scaling-user-interfaces-at-trivago-1
+
+The recording:
+https://www.youtube.com/embed/2qBNo0PjKyM
+
+----
+
+Tags: 

@@ -1,0 +1,24 @@
+Title: Project Ironman - Large Scale CSS Refactoring at trivago
+
+----
+
+Year: 2016
+
+----
+
+Text: 
+
+Project Ironman was the technical migration of the trivago hotel search's existing CSS core to a pattern library based user interface. 
+
+The talk was presented at OpenTechSchool Meetup Dortmund and gives insights and background about the project scope, its implementation and the business value.
+
+The slides:
+https://de.slideshare.net/slideshow/embed_code/key/MlT7lvW2P22bl1
+
+----
+
+Tags: refactoring,css
+
+----
+
+Date: 2016-01-12

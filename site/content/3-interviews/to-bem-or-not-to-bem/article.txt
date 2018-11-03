@@ -1,0 +1,14 @@
+Title: to__bem or not__to--bem
+
+----
+
+Date: 2016-05-12
+
+----
+
+Text: 
+
+(link: https://twitter.com/areaweb text: Cristiano) kicked-off a side project - (link: http://www.didoo.net/to-bem-or-not-to-bem/ text: To BEM or not to BEM) a series of interviews of different people that have used the BEM methodology on large CSS projects (on "real world" websites and applications, not simply "hello world" examples) to gather their feedback and opinions, to try to understand their learnings and experiences.
+I feel very pleased that the idea about this project apparently came up while reading one of my articles on Medium. Once again this showed me how important experience sharing is. 
+Read the first interview of the series here:
+http://www.didoo.net/to-bem-or-not-to-bem/01__interview-with--christoph__reinartz.html

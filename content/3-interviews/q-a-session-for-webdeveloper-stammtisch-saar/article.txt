@@ -7,3 +7,7 @@ Date: 2016-09-01
 ----
 
 Text: I have been invited by (link: https://twitter.com/andi1984 text: Andreas Sander ) to remote join the Webdeveloper Stammtisch Saar and answer some question related to CSS refactoring. It has been a lovely chat over nearly 90 minutes and it has been a lot of fun answering the questions. Definitely a very nice experience. The session has been recorded. You can find it (link: https://www.youtube.com/watch?v=w2056B6slr0 text: here). The whole session was in german though.
+
+----
+
+Hlink: https://www.youtube.com/watch?v=w2056B6slr0

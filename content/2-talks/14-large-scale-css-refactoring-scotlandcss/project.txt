@@ -1,0 +1,25 @@
+Title: Large Scale CSS Refactoring - ScotlandCSS
+
+----
+
+Date: 2016-06-01
+
+----
+
+Text: 
+
+Project Ironman was the technical migration of the trivago hotel search’s existing CSS core to a pattern library based user interface. Backgrounds, insights, learnings and technical approaches of refactoring an existing CSS core of more than 50k lines of SCSS-Code on a large project.
+
+I've published the slides on Speaker Deck:
+https://speakerdeck.com/creinartz/large-scale-css-refactoring-2
+
+<br>The recording:
+https://www.youtube.com/embed/6kSiDglCqkw
+
+----
+
+Tags: refactoring,css,pattern library
+
+----
+
+Location: abc

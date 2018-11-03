@@ -1,0 +1,21 @@
+Title: An evening about Design Systems
+
+----
+
+Date: 2017-11-15
+
+----
+
+Text: 
+
+I had the pleasure to visit CODE University Berlin to talk about Web & product development. 
+
+During the 90min session I presented a slightly adapted version of my "My Product has a Web Front-End" and I presented on top of that my Design System Engineering talk which I had given successfully at Code Europe in May 2017.
+
+----
+
+Tags: design system
+
+----
+
+Location: Guest lecture at CODE University, Berlin
